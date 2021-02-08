@@ -1,2 +1,2 @@
 # Portfolio
-Trying new things
+Trying new things with both GitHub and making my own portfolio
